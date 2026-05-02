@@ -5,8 +5,6 @@ Alfmir.ai runs real end-to-end coding jobs against full repositories: it checks 
 
 **Come for the code agent. Stay for the workspace.**
 
-**Formerly Alfe.** Alfmir.ai is the continuation of the Alfe project. You may still see “Alfe” referenced in code, docs, and legacy URLs while the transition finishes.
-
 ## Quick links
 
 - [Key features](#key-features)
