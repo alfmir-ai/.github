@@ -56,11 +56,11 @@ Alfmir.ai’s value is the **agent + workflow layer**: repo execution, branching
 
 ### Server architecture
 
-Server Architecture is divided into separate components. For code.alsh.ai, it has separate front-end servers, a back-end working-environment server, a git host, a separate database server, and a separate LiteLLM proxy server.
+Server Architecture is divided into separate components. For code.alfmir.ai, it has separate front-end servers, a back-end working-environment server, a git host, a separate database server, and a separate LiteLLM proxy server.
 
-The front-end is hosted as multiple round-robin webservers for easy scalability. The front-end servers do not retain any user information, so it is easy to scale up as many as needed, and it does not matter which front-end server the user connects to. The chat.alsh.ai has a separate front-end server, but shares the database server.
+The front-end is hosted as multiple round-robin webservers for easy scalability. The front-end servers do not retain any user information, so it is easy to scale up as many as needed, and it does not matter which front-end server the user connects to. The chat.alfmir.ai has a separate front-end server, but shares the database server.
 
-The back-end working-environment server, to start, hosts the users working environment and runs the AI code agent on the working environment, it also hosts the Qwen 30b LLM model on the GPU. As users grow I will scale to multiple back-end servers similar to the front-end. The LiteLLM proxy server routes for the chat.alsh.ai front-end and for the advanced Kwaipilot: KAT-Coder-Pro V2 model for the code agent.
+The back-end working-environment server, to start, hosts the users working environment and runs the AI code agent on the working environment, it also hosts the Qwen 30b LLM model on the GPU. As users grow I will scale to multiple back-end servers similar to the front-end. The LiteLLM proxy server routes for the chat.alfmir.ai front-end and for the advanced Kwaipilot: KAT-Coder-Pro V2 model for the code agent.
 
 The AI agent that runs on user code is ran unpriveledged, and sandboxed, isolating operations to read/write on the users files only, and git operations. Preventing any code execution or directory escape.
 
