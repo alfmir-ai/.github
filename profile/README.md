@@ -35,7 +35,7 @@ Alfmir.ai runs real end-to-end coding jobs against full repositories: it checks 
   - Repo operations for standard git collaboration.
 - **Printify Integration**
   - Use your Printify API key to add designs to your stores.
-- **ALSH Shell | Alfmir Shell**
+- **Alfmir Shell | ALSH**
   - Bash Shell Modifications with Alfmir.ai Integration.
 
 ## Architecture
