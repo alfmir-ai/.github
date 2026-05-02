@@ -62,7 +62,7 @@ The back-end working-environment server, to start, hosts the users working envir
 
 The AI agent that runs on user code is ran unpriveledged, and sandboxed, isolating operations to read/write on the users files only, and git operations. Preventing any code execution or directory escape.
 
-The user data sent in chats/LLM prompts will be encrypted on disk/in database similar to Proton Mail encryption, so ideally data will not be accessible by Alfmir.ai, only by users themselves. User git working directories will be encrypted the same way when the AI agent is not actively working on the users directory (This allows user code to remain as private as possible, if the user uses an external git integration like GitHub instead of the Alfmir.ai git host.).
+The user data sent in chats/LLM prompts will be encrypted on disk/in database similar to Proton Mail encryption, so the data is not accessible by Alfmir.ai when it is not actively in use by Alfmir.ai services. User git working directories will be encrypted the same way whenever the AI agent is not actively working in a user’s directory (This allows user code to remain as private as possible, if the user uses an external git integration like GitHub instead of the Alfmir.ai git host.).
 
 ## License
 
