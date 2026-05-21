@@ -47,16 +47,15 @@ https://alfmir.ai
 
 ## Screenshots
 
-<img width="1772" height="1504" alt="image" src="https://github.com/user-attachments/assets/3bee3e90-9b5a-4452-be42-b0cdce22c0a5" />  
+<img width="1772" height="1504" alt="image" src="https://github.com/user-attachments/assets/8430bc3b-5985-4641-8764-72ecb060b5d4" />  
 
-<img width="1601" height="987" alt="3" src="https://github.com/user-attachments/assets/6a21e91d-6aa5-4adb-a6cc-e28f067d5870" />  
+<img width="1601" height="987" alt="image" src="https://github.com/user-attachments/assets/73aae0e1-34e1-4105-bd6d-e6b33e232810" />  
 
-<img width="736" height="1483" alt="image" src="https://github.com/user-attachments/assets/e40b1c29-0fa6-452c-9578-b36890f72dd7" />  
+<img width="736" height="1483" alt="image" src="https://github.com/user-attachments/assets/39a456d8-9972-4a53-b571-881773fee18e" />  
 
-<img width="1327" height="1498" alt="image" src="https://github.com/user-attachments/assets/18dcfe74-67c5-407d-bffa-97255b327fb1" />  
+<img width="1327" height="1498" alt="image" src="https://github.com/user-attachments/assets/f0d9c381-c877-4e16-a725-d671896dcba9" />  
 
-<img width="2083" height="749" alt="image" src="https://github.com/user-attachments/assets/c53fc419-0f0c-41a5-8698-68e7bbfd64c2" />  
-
+<img width="2083" height="749" alt="image" src="https://github.com/user-attachments/assets/e8a024ba-eb67-4a85-8bc6-69fe24bd2981" />  
 
 ## Architecture
 
