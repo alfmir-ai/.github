@@ -47,6 +47,8 @@ https://alfmir.ai
 
 ## Screenshots
 
+<img width="1656" height="1509" alt="image" src="https://github.com/user-attachments/assets/c27ba5c4-bba4-4910-82d8-21b61cfd41d3" />
+
 <img width="1772" height="1504" alt="image" src="https://github.com/user-attachments/assets/8430bc3b-5985-4641-8764-72ecb060b5d4" />  
 
 <img width="1601" height="987" alt="image" src="https://github.com/user-attachments/assets/73aae0e1-34e1-4105-bd6d-e6b33e232810" />  
