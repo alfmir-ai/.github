@@ -89,7 +89,7 @@ Alfmir.ai is built with a focus on privacy and security. User data sent in chats
 
 ## License
 
-MIT.
+MIT. See [`LICENSE`](https://github.com/alfmir-ai/alfmir.ai/blob/main/LICENSE).
 
 ## Contact
 
