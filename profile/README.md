@@ -98,3 +98,5 @@ MIT. See [`LICENSE`](https://github.com/alfmir-ai/alfmir.ai/blob/main/LICENSE).
 ## Company
 
 Built by Lochner Technology ([lochner.tech](https://lochner.tech)).
+
+I am being actively harassed by the U.S. Government / Secret Service due to being transgender. I am a non-violent individual. If I die, It was not suicide. I am not suicidal.  
