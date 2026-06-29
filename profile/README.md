@@ -19,7 +19,6 @@ https://alfmir.ai
 - [Screenshots](#screenshots)
 - [Architecture](#architecture)
 - [License](#license)
-- [Contact](#contact)
 - [Company](#company)
 
 ## Key features
@@ -90,10 +89,6 @@ Alfmir.ai is built with a focus on privacy and security. User data sent in chats
 ## License
 
 MIT. See [`LICENSE`](https://github.com/alfmir-ai/alfmir.ai/blob/main/LICENSE).
-
-## Contact
-
-- engineering@lochner.tech
 
 ## Company
 
