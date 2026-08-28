@@ -9,7 +9,7 @@ Alfmir.ai runs real end-to-end coding jobs against full repositories: it checks 
 
 https://github.com/alfmir-ai/alfmir.ai
 
-### [Try the App](https://alfmir.ai)
+### [Try the App](https://alfmir.ai) (Currently Offline for updates)
 
 https://alfmir.ai
 
