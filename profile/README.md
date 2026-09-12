@@ -5,9 +5,11 @@ Alfmir.ai runs real end-to-end coding jobs against full repositories: it checks 
 
 **An entire AI workspace for building. Code, Chat, Image Design.**
 
-### [View the Code](https://github.com/alfmir-ai/alfmir.ai)
+### [View the Code](https://github.com/alfmir-ai/alfmir.ai) (Will be available soon)
 
 https://github.com/alfmir-ai/alfmir.ai
+
+https://github.com/alfmir-ai/IPFSVerifier (Available now)
 
 ### [Try the App](https://alfmir.ai) (Currently Offline for updates)
 
