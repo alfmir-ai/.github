@@ -7,7 +7,7 @@ Alfmir.ai runs real end-to-end coding jobs against full repositories: it checks 
 
 ### [View the Code](https://github.com/alfmir-ai/alfmir.ai) (Will be available soon)
 
-https://github.com/alfmir-ai/alfmir.ai
+https://github.com/alfmir-ai/alfmir.ai (Will be available soon)
 
 https://github.com/alfmir-ai/IPFSVerifier (Available now)
 
