@@ -5,13 +5,13 @@ Alfmir.ai runs real end-to-end coding jobs against full repositories: it checks 
 
 **An entire AI workspace for building. Code, Chat, Image Design.**
 
-### [View the Code](https://github.com/alfmir-ai/alfmir.ai) (Will be available end of November 2026)
+### [View the Code](https://github.com/alfmir-ai/alfmir.ai) (Available end of November 2026)
 
-https://github.com/alfmir-ai/alfmir.ai (Will be available end of November 2026)
+https://github.com/alfmir-ai/alfmir.ai (Available end of November 2026)
 
 https://github.com/alfmir-ai/IPFSVerifier (Available now)
 
-### [Try the App](https://alfmir.ai) (Currently Offline for updates)
+### [Try the App](https://alfmir.ai) (Available end of November 2026)
 
 Use AI with no datacenter. Alfmir.ai allows you to self-host AI chat, agentic software development, and image generation on your own computer. All you need is 1 gaming capable-GPU. Alfmir.ai can be used with only a CPU with limited functionality.
 
