@@ -94,7 +94,9 @@ Alfmir.ai is built with a focus on privacy and security. User data sent in chats
 
 ## License
 
-MIT. See [`LICENSE`](https://github.com/alfmir-ai/alfmir.ai/blob/main/LICENSE).
+Alfmir AI License v2 See [`LICENSE`](https://github.com/alfmir-ai/alfmir.ai/blob/main/LICENSE).
+Some components licensed MIT, including but not limited to:
+[`Uptime Webapp`](https://github.com/alfmir-ai/uptime)
 
 ## Company
 
