@@ -70,15 +70,14 @@ Alfmir.ai’s value is the **agent + workflow layer**: repo execution, branching
 
 ### Premium model path
 
-- **Default engine (paid/cloud):** **KAT-Coder-Pro V2**
-- **Routing:** via **OpenRouter** through **StreamLake**
+- **Default engine:** **KAT-Coder-Pro V2.5**
+<!-- - **Routing:** via **OpenRouter** through **StreamLake** -->
 - **Billing:** subscription + credits
 - KAT is the premium default today, but it’s not the product—Alfmir.ai is designed to keep model backends interchangeable over time.
 
-### Self-hosted and open model path
+### Alternative engine
 
 - **Supported open path:** **Qwen3-Coder-30B-A3B**
-- Secondary path (capacity-limited)
 
 ### Server architecture
 
