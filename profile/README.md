@@ -13,7 +13,11 @@ https://github.com/alfmir-ai/IPFSVerifier (Available now)
 
 ### [Try the App](https://alfmir.ai) (Currently Offline for updates)
 
-https://alfmir.ai
+Use AI with no datacenter. Alfmir.ai allows you to self-host AI chat, agentic software development, and image generation on your own computer. All you need is 1 gaming capable-GPU. Alfmir.ai can be used with only a CPU with limited functionality.
+
+Alfmir.ai will be available to use for free by the end of November 2026. At a minimum, the privacy-first AI chat will be available. The privacy-first agentic software dev module may also be available, if not at launch then soon-after. Available web modules and unreleased modules will be self-hostable. 
+
+Paid plans will also be available. Alfmir.ai can be self-hosted end-to-end for fully secure, private, On-Premise AI for your business or personal use.
 
 ## Quick links
 
