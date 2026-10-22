@@ -77,7 +77,7 @@ Alfmir.ai’s value is the **agent + workflow layer**: repo execution, branching
 
 ### Alternative engine
 
-- **Supported open path:** **Qwen3-Coder-30B-A3B**
+- **Qwen3-Coder-30B-A3B**
 
 ### Server architecture
 
