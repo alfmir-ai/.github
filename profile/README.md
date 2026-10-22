@@ -1,4 +1,4 @@
-# Alfmir.ai | Privacy-first AI
+# Alfmir.ai | Privacy-first AI, Self-hostable
 <!-- AI code agent for full-project workflows.
 
 Alfmir.ai runs real end-to-end coding jobs against full repositories: it checks out code, executes an agent run from your prompt, and produces a reviewable diff you can merge. It’s open source, with a hosted cloud experience plus a self-host path.-->
